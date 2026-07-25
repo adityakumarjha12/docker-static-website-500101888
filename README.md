@@ -171,11 +171,11 @@ it. Useful for debugging and verifying configuration.
 
 - [x] Three website pages and CSS file completed
 - [x] Dockerfile completed
-- [ ] Image builds successfully
-- [ ] Container runs at http://localhost:8080
-- [ ] Four screenshots included
+- [x] Image builds successfully
+- [x] Container runs at http://localhost:8080
+- [x] Four screenshots included
 - [x] README.md completed
-- [ ] GitHub link included
+- [x] GitHub link included
 - [ ] Recording link included and accessible
 - [ ] README saved as PDF
 - [ ] PDF named correctly (`Docker_Practical_2_500101888.pdf`) and uploaded to LMS
