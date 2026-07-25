@@ -162,7 +162,7 @@ it. Useful for debugging and verifying configuration.
 
 ## 7. Evidence Links
 
-- **GitHub Repository:** https://github.com/YOUR-USERNAME/docker-static-website-500101888
+- **GitHub Repository:** https://github.com/adityakumarjha12/docker-static-website-500101888
 - **Screen Recording (Google Drive / OneDrive, view access enabled):** PASTE_RECORDING_LINK_HERE
 
 ---
