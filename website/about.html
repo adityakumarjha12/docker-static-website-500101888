@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About - Docker Student Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>About &mdash; Docker Concepts</h1>
+    <p>Aditya Kumar Jha &nbsp;|&nbsp; Roll No: R2142220016 / SAP ID: 500101888</p>
+  </header>
+
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html" class="active">About</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+
+  <main>
+    <h2>Docker Concepts Learned in This Course</h2>
+
+    <ul class="concept-list">
+      <li>
+        <strong>Image:</strong> A read-only template that contains an
+        application's code, dependencies, and configuration. Images are built
+        from a Dockerfile and are used to create containers.
+      </li>
+      <li>
+        <strong>Container:</strong> A running instance of an image. It is an
+        isolated, lightweight process that includes everything the application
+        needs, and multiple containers can run from the same image at once.
+      </li>
+      <li>
+        <strong>Dockerfile:</strong> A text file containing step-by-step
+        instructions (such as <code>FROM</code>, <code>COPY</code>, and
+        <code>EXPOSE</code>) that Docker follows to automatically build an
+        image.
+      </li>
+      <li>
+        <strong>Port Mapping:</strong> A way of connecting a port on the host
+        machine to a port inside the container (for example
+        <code>-p 8080:80</code>), so services running inside the container can
+        be accessed from outside it.
+      </li>
+      <li>
+        <strong>Docker Hub / Base Images:</strong> A public registry of
+        pre-built images, such as <code>nginx:alpine</code>, that developers
+        can use as a starting point instead of building an environment from
+        scratch.
+      </li>
+      <li>
+        <strong>Volumes and Bind Mounts:</strong> Mechanisms for persisting or
+        sharing data between the host machine and a container, so data isn't
+        lost when a container stops or is removed.
+      </li>
+    </ul>
+  </main>
+
+  <footer>
+    &copy; 2026 Aditya Kumar Jha &mdash; Docker Remedial Practical Assignment 2
+  </footer>
+
+</body>
+</html>
