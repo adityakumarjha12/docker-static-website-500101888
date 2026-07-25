@@ -177,5 +177,5 @@ it. Useful for debugging and verifying configuration.
 - [x] README.md completed
 - [x] GitHub link included
 - [ ] Recording link included and accessible
-- [ ] README saved as PDF
-- [ ] PDF named correctly (`Docker_Practical_2_500101888.pdf`) and uploaded to LMS
+- [x] README saved as PDF
+- [x] PDF named correctly (`Docker_Practical_2_500101888.pdf`) and uploaded to LMS
